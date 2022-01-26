@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 洛迹服装网站</title>
+    <link>http://thenewbugs.github.io/post/</link>
+    <description>Recent content in Posts on 洛迹服装网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 25 Jan 2022 22:08:24 +0800</lastBuildDate><atom:link href="http://thenewbugs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试文件</title>
+      <link>http://thenewbugs.github.io/post/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Tue, 25 Jan 2022 22:08:24 +0800</pubDate>
+      
+      <guid>http://thenewbugs.github.io/post/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
+      <description>这是一篇测试用的文章 如你所见这个网站里除了这一篇文章几乎没有别的东西了.
+这是一个想给厂子用的测试网站.
+这个网站是以 Github Pages 为基础,以 Hugo 软件生成的静态站点.并不依赖微信公众号,淘宝,抖音等软件服务.这是一个完全自主的网页.如果有需要或条件允许,这个网站可以迁移到国内的 Gitee Pages 或者是以自建服务器的方式运行.
+但静态网站总归是一种比较古老的网站形式了,它无法实现一些(相对而言)较先进的功能,比如调用数据库来自动生成站点,或者是在文章下显示评论等等.但也只能如此了.
+希望这个网站能够有点作用.
+测试图片  </description>
+    </item>
+    
+  </channel>
+</rss>
