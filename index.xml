@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>洛迹服装网站</title>
+    <title>洛迹服饰网站</title>
     <link>https://thenewbugs.github.io/lojiclothes/</link>
-    <description>Recent content on 洛迹服装网站</description>
+    <description>Recent content on 洛迹服饰网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Jan 2022 10:43:27 +0800</lastBuildDate><atom:link href="https://thenewbugs.github.io/lojiclothes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 21:29:25 +0800</lastBuildDate><atom:link href="https://thenewbugs.github.io/lojiclothes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://thenewbugs.github.io/lojiclothes/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 29 Jan 2022 21:29:25 +0800</pubDate>
+      
+      <guid>https://thenewbugs.github.io/lojiclothes/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description>一篇测试用文章 如你所见,这篇文章在 2022.1.28 发布于 thenewbugs.github.io/lojiclothes</description>
+    </item>
+    
     <item>
       <title>建站历程</title>
       <link>https://thenewbugs.github.io/lojiclothes/post/%E5%BB%BA%E7%AB%99%E5%8E%86%E7%A8%8B/</link>
